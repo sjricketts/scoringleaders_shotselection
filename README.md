@@ -1,4 +1,4 @@
-# Visulalizes the shot selection for scoring leaders in the NBA, 1996-2019.
+# Visualizes the shot selection for scoring leaders in the NBA, 1996-2019.
 Data ETL for NBA scoring leaders and their shot selection.
 
 [Visit my Tableau Public page](https://public.tableau.com/profile/scott.ricketts#!/)
